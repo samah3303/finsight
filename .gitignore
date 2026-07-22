@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+.env
+venv/
+.venv/
+env/
+
+# Models / checkpoints
+*.pt
+*.pth
+*.h5
+models/
+
+# Data
+*.csv
+*.parquet
+data/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
