@@ -6,6 +6,7 @@
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.109-green.svg)](https://fastapi.tiangolo.com)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.30-red.svg)](https://streamlit.io)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-FF4B4B?logo=streamlit)](https://finsight-yyprnpfbgpuw9e729sqhxt.streamlit.app)
 
 ## 🏗 Architecture
 
